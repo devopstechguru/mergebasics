@@ -1,1 +1,1 @@
-# mergebasics, Yo modified to create problems, addeing on now by test branch
+# mergebasics, Yo modified to create problems, adding on now by test branch
